@@ -1,3 +1,20 @@
+
+---
+
+# NutriSmart
+
+Thank you for visiting this repository!
+
+**Note:** This version of the repository currently has issues displaying correctly on GitHub Pages. We apologize for any inconvenience.
+
+For the improved and fully functional version of the project, please visit our updated repository:
+
+👉 **[NutriSmart - Updated Repository](https://github.com/Hrishikeshmind/Nutrismart-4.git)** 👈
+
+We humbly request you to check out the project there. Thank you for your understanding and support!
+
+---
+
 # NutriSmart - AI-Powered Meal Planning
 
 NutriSmart is an advanced meal planning application that leverages artificial intelligence to create personalized nutrition plans tailored to individual preferences, dietary requirements, and health goals.

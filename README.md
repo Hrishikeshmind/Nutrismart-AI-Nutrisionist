@@ -1,6 +1,55 @@
- Using VS Code (or similar IDE) with an Integrated Terminal
-Open Project in VS Code: Open the project folder in Visual Studio Code (or any other IDE with integrated terminal support).
-Set Up Environment:
-Make sure Node.js and npm (or Yarn) are installed on your machine.
-Install the necessary dependencies by running npm install or yarn install in the terminal within the project root.
-Run Development Server: Start the development server by typing npm run dev or yarn dev in the terminal. Open your browser and navigate to http://localhost:3000 to see the application in action.
+# NutriSmart - AI-Powered Meal Planning
+
+NutriSmart is an advanced meal planning application that leverages artificial intelligence to create personalized nutrition plans tailored to individual preferences, dietary requirements, and health goals.
+
+## Features
+
+- 🤖 AI-powered meal plan generation
+- 📊 Detailed nutrition tracking
+- 🍳 Complete recipes with instructions
+- 🎯 Personalized health goals
+- 📱 Responsive design
+- 💾 Local storage persistence
+- 🌐 OpenAI integration
+
+## Getting Started
+
+1. Clone the repository
+
+2. Install dependencies:
+   ```bash
+   npm install
+   ```
+3. Start the development server:
+   ```bash
+   npm run dev
+   ```
+
+## Environment Variables
+
+Create a `.env` file in the root directory with the following variables:
+
+
+
+## Tech Stack
+
+- React
+- TypeScript
+- Vite
+- Tailwind CSS
+- OpenAI API
+- React Query
+- Zustand
+- Date-fns
+
+## Contributing
+
+1. Fork the repository
+2. Create a feature branch
+3. Commit your changes
+4. Push to the branch
+5. Open a Pull Request
+
+## License
+
+MIT License - feel free to use this project for personal or commercial purposes
